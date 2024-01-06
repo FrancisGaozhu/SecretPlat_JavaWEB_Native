@@ -1,0 +1,13 @@
+/* 网站标题 */
+#title{
+    font-size: 50px;
+    border-bottom: blue dotted 5px;
+
+    background-color: #cde7ffd4;
+}
+/*账户信息栏目*/
+#userInfo{
+    border-bottom: blue dotted 5px;
+
+    background-color: #f8caca;
+}
